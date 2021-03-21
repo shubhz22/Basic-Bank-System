@@ -27,15 +27,14 @@
     <p>Your Perfect Banking Partner</p>
   </div>
     
-    <div class="button">
-  <a class="btn btn-danger" href="transfermoney.php" role="button">Transfer Money</a>   
-   </div>
- 
   </div>
+
 
 <footer class="text-center mt-10 py-2">
        <p>&copy 2021. Made by <b>SHUBHAM SHINDE</b>
       </footer>
+
+      
 </header>
 
   
